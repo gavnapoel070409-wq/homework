@@ -1,0 +1,31 @@
+.box {
+    font-family: "Open Sans", "arial";
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+.meta {
+    font-size: 15px;
+    line-height: 40px;
+    text-decoration: line-through;
+}
+.dol {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.tom {
+    font-size: 20px;
+    text-decoration: overline wavy;
+    line-height: 40px;
+    word-spacing: 30px;
+    text-shadow: 2px 2px 3px #41003b;
+}
+.rom {
+    text-decoration: underline double;
+    letter-spacing: 5px;
+    font-size: 20px;
+    line-height: 40px;
+
+}
