@@ -1,31 +1,19 @@
-.box {
-    font-family: "Open Sans", "arial";
-    font-size: 20px;
-    line-height: 30px;
-    font-weight: 300;
-    font-style: italic;
+.block {
+    background-color: rgb(31, 4, 67);
+    overflow: auto;
+    border: 1px solid #000;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
 }
-.meta {
-    font-size: 15px;
-    line-height: 40px;
-    text-decoration: line-through;
-}
-.dol {
-    font-size: 18px;
-    text-align: center;
-    text-transform: uppercase;
-}
-.tom {
-    font-size: 20px;
-    text-decoration: overline wavy;
-    line-height: 40px;
-    word-spacing: 30px;
-    text-shadow: 2px 2px 3px #41003b;
-}
-.rom {
-    text-decoration: underline double;
-    letter-spacing: 5px;
-    font-size: 20px;
-    line-height: 40px;
 
+.lox {
+    background-color: rgb(204, 98, 193);
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    border: 5px double #4498b9;
+    border-radius: 20px;
+    box-shadow: inset 1px 1px 5px #31dbbc;
+    padding: 30px;
+    margin: 5px;
 }
